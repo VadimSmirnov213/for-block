@@ -1,0 +1,5 @@
+from: Quinn, to: Mary, value: 63
+from: Harry, to: Eve, value: 577
+from: Patric, to: Quinn, value: 392
+from: Mary, to: Oliver, value: 152
+3

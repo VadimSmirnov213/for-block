@@ -1,0 +1,17 @@
+{
+    "index":20,
+    "pre_hash":"000ee1d5625528728e0ee6e604c64594",
+    "data":[
+        "f0390f4d09c6a3fe180383629aa0e842",
+        "4204ecf91124e6184ef3faeccc64b3d5",
+        "f464b437593d6485569f9cbb04893316",
+        "053735d1dbc2320044b9a01362d9611e",
+        "102678fc7afc5a14829e9abf08ddd35c",
+        "102678fc7afc5a14829e9abf08ddd35c"
+    ],
+    "datahash":"529c83f93343be413b3a2a5962cb6431",
+    "creator":"Uwe",
+    "nonce":3890,
+    "hash":"00044bb8156efa01b54a079eb54a2ffe",
+    "sign":"0b964f7c8b99643cb7fe7f376b21f2dc32afd1e15a1a8a2504f2f823fbc28e841b8bfbec2ad3d810400c0e5497fdb6d6e06bb4f5ce3c4e37f9a46aa03645d36b"
+}
